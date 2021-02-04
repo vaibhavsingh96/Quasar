@@ -16,8 +16,3 @@ cd Quasar/quasar-backend
 ./mvnw spring-boot:run
 ```
 
-## Quasar mail
-Account: quasarservice1234@gmail.com
-
-
-Password: Quasar@1234
