@@ -1,0 +1,13 @@
+/* profile section */
+.profile-img {
+    width: 100px;
+    height: 100px;
+}
+
+.container-fluid{
+    padding: 6% 25% 5% 25%;
+}
+
+.mr-auto {
+    font-size: large;
+}

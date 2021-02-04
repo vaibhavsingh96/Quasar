@@ -1,0 +1,1 @@
+longitude: 123.0; latitude: 123.0; altitude: 0.0; satellite: satellite01; frequency: 0.0; rate: 0.0; time: 2020-11-16 15:59:02

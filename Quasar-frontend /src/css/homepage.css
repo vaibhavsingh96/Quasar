@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Montserrat:wght@800&family=Ubuntu&display=swap');
+
+/* navbar section */
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+}
+
+/* title section */
+#title{
+  background: url("https://44qewv8ie16ohghf2s78zn7f-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/satellite-image-promo.jpg");
+  opacity: 0.75;
+}
+
+#title h1 {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+  color: white;
+  text-align: left;
+}
+
+#title .container-fluid{
+  padding: 7% 8% 15%;
+}
+
+/* feature section */
+#features{
+  text-align: center;
+  background-color: white;
+}
+
+#features .container-fluid{
+  padding-bottom: 15%;
+}
+
+#features h1{
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
+#features h3{
+  padding-top: 5%;
+}
+
+
+/* footer section */
+#footer {
+  background-color: #343a40;
+  text-align: center;
+}
+
+#footer .container-fluid{
+  padding: 5% 5% 5%;
+}
+
+#footer p{
+  color: white;
+}

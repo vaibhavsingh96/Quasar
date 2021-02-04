@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Montserrat:wght@800&family=Ubuntu&display=swap');
+@import '~antd/dist/antd.css';
+.gray_solid {
+  border-style: solid;
+  border-color: #dee1e6;
+}
+
+/* navbar section */
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+}
+
+/* databoard section */
+#databoard {
+  padding: 10% 0%;
+}
+
+.container-fluid1 {
+  padding: 5% 0%;
+}
+
+.container-fluid2 {
+  padding: 0%;
+}
+
+.data-vis {
+  height: 750px;
+}
+
+/* image for data */
+.data-img {
+  padding: 1% 0%;
+  width: 100%;
+}
+
+.data-aud{
+  padding: 1% 0%;
+  width: 60%;
+}
+
+.display{
+  padding: 3% 0%;
+}

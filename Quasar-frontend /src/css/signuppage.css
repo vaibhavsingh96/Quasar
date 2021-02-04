@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Montserrat:wght@800&family=Ubuntu&display=swap');
+@import '~antd/dist/antd.css';
+.alert {
+  margin-top: 4%;
+}
+/* navbar section */
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+}
+
+.left {
+  text-align: left;
+}
+
+.center {
+  text-align: center;
+}
+
+/* Signup Form */
+
+.profile-img {
+  width: 100px;
+  height: 100px;
+}
+
+.form-signup {
+  width: 100%;
+  max-width: 60%;
+  padding: 12% 0%;
+  margin: auto;
+}
+
+.form-btn {
+  margin-top: 10%;
+  text-align: center;
+}
+
+/* tile uploaded pictures */
+.upload-list-inline .ant-upload-list-item {
+  float: left;
+  width: 200px;
+  margin-right: 8px;
+}
+
+.upload-list-inline [class*='-upload-list-rtl'] .ant-upload-list-item {
+  float: right;
+}
+
+/* footer section */
+#footer {
+  background-color: #343a40;
+  text-align: center;
+}
+
+#footer .container-fluid{
+  padding: 5% 5% 5%;
+}
+
+#footer p{
+  color: white;
+}

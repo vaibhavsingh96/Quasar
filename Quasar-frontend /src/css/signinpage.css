@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Montserrat:wght@800&family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Play&family=Sansita+Swashed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&family=Play&family=Sansita+Swashed&display=swap');
+
+
+.alert {
+  padding-top: 2%;
+}
+
+/* navbar section */
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+}
+
+/* Signin Form */
+
+.profile-img {
+  width: 100px;
+  height: 100px;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 12% 0%;
+  margin: auto;
+}
+
+#signinform h1 {
+  padding: 5% 0%;
+}
+
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+
+.form-btn {
+  margin-top: 10%;
+}
+
+.signup-form {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.bcg{
+  background: url("../images/space.jpg");
+  margin-bottom: 15%;
+}
+
+.white{
+  font-family: 'Gamja Flower', cursive;
+  color: white;
+}
+
+.upper{
+  border-top: 10%;
+}
+
+/* footer section */
+#footer {
+  background-color: #343a40;
+  text-align: center;
+}
+
+#footer .container-fluid{
+  padding: 5% 5% 5%;
+}
+
+#footer p{
+  color: white;
+}
